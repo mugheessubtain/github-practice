@@ -1,2 +1,2 @@
 # github-practice
-this repo is for basic practice of github
+this repo is for basic practice of github.
